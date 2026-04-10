@@ -1,0 +1,9 @@
+{
+  "name": "星耀直播 (StarLive Mobile)",
+  "description": "一款高度模拟安卓原生体验的娱乐直播 App，支持实时互动、炫酷礼物和沉浸式直播体验。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
